@@ -1,1 +1,3 @@
-Changes to file
+function smth () {
+    console.log("something new");
+};smth new
